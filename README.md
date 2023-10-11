@@ -8,6 +8,7 @@ Shopee Auto Clicker adalah alat otomatis sederhana yang memungkinkan pengguna un
 - [Cara Penggunaan](#cara-penggunaan)
 - [Fitur](#fitur)
 - [Kontributor](#kontributor)
+- [Instalasi](#instalasi)
 
 ## Deskripsi
 
@@ -32,3 +33,15 @@ Shopee Auto Clicker adalah alat yang digunakan untuk melakukan pencarian otomati
 - Jiilan N. Tanjung
 
 Silakan hubungi kontributor jika Anda memiliki pertanyaan atau saran terkait alat ini.
+
+## Instalasi
+
+Sebelum menjalankan program ini, pastikan Anda telah menginstal beberapa pustaka Python yang diperlukan. Anda dapat menginstalnya dengan menggunakan PIP (Pip Installs Packages), perintah manajemen paket Python. Jalankan perintah berikut untuk menginstal pustaka yang diperlukan:
+
+```bash
+pip install requests beautifulsoup4 selenium webdriver-manager prettytable colorama
+```
+
+Pastikan Anda telah mengaktifkan lingkungan virtual Python yang sesuai sebelum menjalankan perintah di atas.
+
+Anda dapat menambahkan informasi tentang pustaka yang diperlukan untuk menjalankan program di lingkungan virtual Python Anda. Ini akan membantu pengguna lain dalam menginstal dependensi yang diperlukan sebelum menjalankan program Anda.
