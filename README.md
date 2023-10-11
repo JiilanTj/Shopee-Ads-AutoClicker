@@ -44,4 +44,3 @@ pip install requests beautifulsoup4 selenium webdriver-manager prettytable color
 
 Pastikan Anda telah mengaktifkan lingkungan virtual Python yang sesuai sebelum menjalankan perintah di atas.
 
-Anda dapat menambahkan informasi tentang pustaka yang diperlukan untuk menjalankan program di lingkungan virtual Python Anda. Ini akan membantu pengguna lain dalam menginstal dependensi yang diperlukan sebelum menjalankan program Anda.
