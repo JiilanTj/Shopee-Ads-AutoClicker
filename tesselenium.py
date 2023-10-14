@@ -53,6 +53,7 @@ if response.status_code == 200:
 
         # Buka Shopee
         driver.get('https://shopee.co.id/')
+        time.sleep(3)
 
         # Temukan elemen input pencarian dengan XPath yang telah Anda berikan
         search = driver.find_element(by=By.XPATH,
